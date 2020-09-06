@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: W3WYM_US_Capitol_Buidling-->
+	<SceneryObject lat="38.88984867222228" lon="-77.00913747166432" alt="0.34536841884994" pitch="0.003039" bank="-0.004535" heading="89.931475" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+		<LibraryObject name="{3688F2FA-C38C-41B8-1C6D-99A4DC7856AF}" scale="1.050000"/>
+	</SceneryObject>
+	<!--SceneryObject name: W3WYM_Washington_Monument-->
+	<SceneryObject lat="38.88946997317463" lon="-77.03523610765855" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8985FC75-4B5B-463F-43F4-572C6082BE85}" scale="0.500000"/>
+	</SceneryObject>
+	<!--SceneryObject name: W3WYM_White_House-->
+	<SceneryObject lat="38.89765940772320" lon="-77.03653454607790" alt="0.00000000000000" pitch="0.001052" bank="-0.001052" heading="-89.940655" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C0B6B6E2-3C44-4F80-C99B-F697125BC76B}" scale="24.999998"/>
+	</SceneryObject>
+</FSData>
+

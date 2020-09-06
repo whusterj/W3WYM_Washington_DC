@@ -1,0 +1,8 @@
+<Project Version="2" Name="W3WYM_Washington_DC" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\w3wym-washington-dc.xml</Package>
+	</Packages>
+</Project>
+

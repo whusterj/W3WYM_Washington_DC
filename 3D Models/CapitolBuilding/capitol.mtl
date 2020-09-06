@@ -1,0 +1,60 @@
+newmtl Flat_white0
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl Flat_white1
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl White_porcelain0
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+newmtl COLOR05
+Ka 0 0 0
+Ns 1
+Ks 1 1 1
+Kd 0 0 1
+newmtl Flat_white2
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl Brushed_gold
+Ka 0 0 0
+Ns 6.04965
+Ks 1 0.717647 0.133333
+Kd 0.917647 0.666667 0
+newmtl Flat_white3
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl Flat_white4
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl Flat_white5
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl White_porcelain1
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+newmtl Flat_white6
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+newmtl Flat_white7
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
